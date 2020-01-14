@@ -128,8 +128,8 @@ Follow the following steps:
       
       <guid>/about/</guid>
       <description>Hi, welcome to my website!
-I&#39;m currently bussy completing my masters Methodolgy and Statistics for the Behavioural, Biomedical and Social Sciences. I have a background in Psychology and a special interest in (Bio)medical and health-related research.
-My two passions are statistics and graphic design, so you could say that I&#39;m &amp;ldquo;statistician by day, illustrator by night&amp;quot;! I wholehardly believe that knowledge is as valuable as you can communicate it. I help researchers to make their ideas more accessible, understandable and fun.</description>
+I&#39;m currently busy completing my Masters degree in Methodolgy and Statistics for the Behavioural, Biomedical and Social Sciences. I have a background in Psychology and a special interest in (Bio)medical and health-related research.
+My two passions are statistics and graphic design, so you could say that I&#39;m &amp;ldquo;statistician by day, illustrator by night&amp;quot;! I wholeheartedly believe that knowledge is as valuable as you can communicate it.</description>
     </item>
     
     <item>
@@ -138,7 +138,7 @@ My two passions are statistics and graphic design, so you could say that I&#39;m
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>You can contact me on linked-In and follow me on github.</description>
+      <description>You can contact me on LinkedIn and follow me on Github.</description>
     </item>
     
     <item>
@@ -147,15 +147,14 @@ My two passions are statistics and graphic design, so you could say that I&#39;m
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>Education 2018 - 2020
+      <description>Education Sep 2018 - May 2020
 Msc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, Utrecht University, Utrecht
-2015 - 2018
+Sep 2015 - June 2018
 Bsc Psychology (cum laude), Utrecht University, Utrecht
-My Bachelor Thesis has been rewarded with the Peter G. Swanborn prize my bacehor thesis, Article about Peter G. Swanborn prize 2018, the jury raport.
-2014 - 2015
+My Bachelor Thesis has been rewarded with the Peter G. Swanborn prize my bachelor thesis, Article about Peter G. Swanborn prize 2018, the jury report.
+Sep 2014 - June 2015
 Biomedical Sciences Utrecht University, Utrecht University, Utrecht
-Experience sep 2019 - may 2019
-Intern at Julius Centre - Julius Centre, subdepartment Clinical Trial Methodology</description>
+Experience Sep 2019 - May 2019</description>
     </item>
     
     <item>
@@ -165,12 +164,12 @@ Intern at Julius Centre - Julius Centre, subdepartment Clinical Trial Methodolog
       
       <guid>/projects/</guid>
       <description>Current projects:
-Masther Thesis: Incorporating historical controls in confirmatory clinical trials using frequentist methods that comprise equivalence testing
-I plan to finish my masther thesis in may.
+Master Thesis: Incorporating historical controls in confirmatory clinical trials using frequentist methods that comprise equivalence testing
+I plan to finish my master thesis in May.
 ASReview
 I created a brand identity for ASReview.
-Rens van de Schoot Inaugural lecture &amp;ldquo;Machines Replacing Scientists&amp;rdquo;.
-I work with Rens van de Schoot and Bruno van Wayenburg to make short animations and giffs that will be shown during the inaguration.</description>
+Inaugural lecture Rens van de Schoot &amp;ldquo;Machines Replacing Scientists&amp;rdquo;.
+I work with Rens van de Schoot and Bruno van Wayenburg to make short animations and GIFs that will be shown during Rens&amp;rsquo; inaguration.</description>
     </item>
     
   </channel>
